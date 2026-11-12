@@ -1,0 +1,6 @@
+{
+  "name": "GLO SKIN & HAIR CLINIC",
+  "description": "Premium dermatology and hair care clinic in Rangia, Assam. Evidence-inspired personalized skin consultations, hair restoration, and aesthetic wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
